@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditTextS_RES">
+        <attr name="right_is_pwd" format="boolean"/>
+        <attr name="right_padding" format="integer"/>
+    </declare-styleable>
+</resources>
